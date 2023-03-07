@@ -315,6 +315,12 @@ footer .item img {
         display: none;
     }
 
+    .Category_item {
+      display: block;
+    } 
+    .category_imgGD{
+      display: none;
+    }
     footer .content {
         grid-template-columns: 50% 50%;
     }
